@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+typesense         
+python-dotenv
+langsmith         
